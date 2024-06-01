@@ -1,3 +1,13 @@
+golang-github-coreos-semver (0.3.0-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release.
+  * mark usr/bin/go-semver in debian/not-installed
+  * Standards-Version: 4.5.0
+  * debhelper compatibility level 13
+
+ -- Drew Parsons <dparsons@debian.org>  Mon, 28 Sep 2020 10:39:47 +0800
+
 golang-github-coreos-semver (0.2.0-3) unstable; urgency=medium
 
   * Team upload.
